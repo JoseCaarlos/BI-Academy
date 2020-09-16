@@ -1,4 +1,4 @@
-# Portfólio de BI
+# Portifólio de BI
 
 Este repositório tem como objetivo demonstrar os projetos desenvolvidos nos cursos relacionados a BI
 
